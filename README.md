@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+💫 Skills
+- Python |
+- Pandas |
+- Numpy |
+- matplotlib |
+- Selenium |
+- Doker |
+- SQL |
+
+- html |
+- javascript |
+
+[협업]
+- Github |
+- Slack |
+- Jira |
+
+
 <!--
 **btg1631/btg1631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
