@@ -12,7 +12,7 @@
 ### 💬 여행 데이터 분석 Project
 - [link](https://github.com/btg1631/study_data_analytics/tree/main/docs/project_trip)
 
-### 💬 이커머스 데이터 분석 project
+### 💬 이커머스 데이터 분석 Project
 - [link](https://github.com/btg1631/eCommerce-project)
 
 
