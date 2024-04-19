@@ -11,7 +11,10 @@
 - [1차](https://github.com/btg1631/project_coliving)
 - [2차](https://github.com/btg1631/co_lovehouse)
 
-### 💬 여행 데이터 분석 Project
+### 💬 여행 추천 사이트 Project
+- [3차]()
+
+### 💬 여행 데이터 분석 개인 Project
 - [link](https://github.com/btg1631/study_data_analytics/tree/main/docs/project_trip)
 
 ### 💬 이커머스 데이터 분석 Project
