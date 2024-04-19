@@ -3,6 +3,9 @@
 - html | javascript |
 - Github | Slack | Jira | Doker
 
+## 🎈 Resume
+- [link](https://www.notion.so/5461688c9def402d97737d5e797004c4)
+
 ## 📚 Project
 ### 💬 코리빙하우스 플랫폼 Project
 - [1차](https://github.com/btg1631/project_coliving)
