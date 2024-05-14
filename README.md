@@ -4,7 +4,7 @@
 - Github | Slack | Jira | Doker
 
 ## 🎈 Resume
-- [link](https://www.notion.so/5461688c9def402d97737d5e797004c4)
+- [link](https://spice-evening-443.notion.site/5461688c9def402d97737d5e797004c4?pvs=74)
 
 ## 📚 Project
 ### 💬 코리빙하우스 플랫폼 Project
