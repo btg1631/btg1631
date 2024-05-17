@@ -6,8 +6,8 @@
 <img alt="이미지명" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="이미지명" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <img alt="이미지명" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/> <img alt="이미지명" src ="https://img.shields.io/badge/jirasoftware-0052CC.svg?&style=for-the-badge&logo=jirasoftware&logoColor=white"/> <img alt="이미지명" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 
-## 🎈 Resume
-- [link](https://spice-evening-443.notion.site/5461688c9def402d97737d5e797004c4?pvs=74)
+## 🎈[Resume](https://spice-evening-443.notion.site/5461688c9def402d97737d5e797004c4?pvs=74)
+
 
 ## 📚 Project
 ### 💬 코리빙하우스 플랫폼 Project
@@ -19,10 +19,12 @@
 
 ### 💬 [여행 데이터 분석 개인 Project](https://github.com/btg1631/study_data_analytics/tree/main/docs/project_trip)
 
+
 ## 🌱[coding test](https://github.com/btg1631/study_pythons)
 - [baekjoon](https://www.acmicpc.net/problemset)
 - [programmers-python](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1&languages=python3&page=1)
 - [programmers-SQL](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=mysql&levels=2)
+
 
 <!--
 **btg1631/btg1631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
