@@ -23,6 +23,10 @@
 ### 💬 이커머스 데이터 분석 Project
 - [link](https://github.com/btg1631/eCommerce-project)
 
+## 🌱[coding test](https://github.com/btg1631/study_pythons)
+- [baekjoon](https://www.acmicpc.net/problemset)
+- [programmers-python](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1&languages=python3&page=1)
+- [programmers-SQL](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=mysql&levels=2)
 
 <!--
 **btg1631/btg1631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
