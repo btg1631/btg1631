@@ -6,7 +6,7 @@
 <img alt="이미지명" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="이미지명" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <img alt="이미지명" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/> <img alt="이미지명" src ="https://img.shields.io/badge/jirasoftware-0052CC.svg?&style=for-the-badge&logo=jirasoftware&logoColor=white"/> <img alt="이미지명" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 
-## 🎈[Resume](https://spice-evening-443.notion.site/5461688c9def402d97737d5e797004c4?pvs=74)
+## 🎈[Notion : Resume★](https://spice-evening-443.notion.site/5461688c9def402d97737d5e797004c4?pvs=74)
 
 
 ## 📚 Project
